@@ -1,0 +1,31 @@
+{
+  "name": "gmsys",
+  "description": "Oshnic's Godown Management System",
+  "main": "index.html",
+  "authors": [
+    "Deepak Jain <deepjain1290@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "gmsys"
+  ],
+  "homepage": "https://github.com/OshnicITSolutions/OSPLGmSys",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.x",
+    "angular-route": "1.x",
+    "mobile-angular-ui": "1.2.x",
+    "font-awesome": "4.2",
+    "bootstrap": "3.x",
+    "ngCordova": "^0.1.27-alpha",
+    "moment": "^2.20.1",
+    "jquery": "^3.3.1",
+    "angular-ui-grid": "^4.4.11"
+  }
+}
